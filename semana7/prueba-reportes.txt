@@ -1,0 +1,2 @@
+'{"tipo": "Infraestructura", 
+"descripcion": "Daño en alumbrado público"}'
