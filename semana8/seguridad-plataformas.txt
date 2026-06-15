@@ -1,0 +1,5 @@
+ 1.Utilizar contraseñas seguras y cambiarlas periódicamente.
+ 2. No compartir credenciales de acceso entre usuarios.
+ 3. Mantener la plataforma y el software actualizados.
+ 4. Realizar copias de seguridad de la información.
+ 5. Controlar los permisos de acceso según el rol de cada usuario.

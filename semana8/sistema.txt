@@ -1,0 +1,6 @@
+uname -a
+Linux localhost 5.15.178-android13-8-00007-g362d545d31a5-ab14608873 #1 SMP PREEMPT Wed Dec 17 16:29:33 UTC 2025 aarch64 Android
+whoami
+u0_a306
+Permite conocer el estado del servidor y sus recursos.
+Ayuda a detectar problemas y mantener su buen funcionamiento.
